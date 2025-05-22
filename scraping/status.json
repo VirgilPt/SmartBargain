@@ -1,0 +1,40 @@
+{
+    "id": 3,
+    "title": "État",
+    "code": "status",
+    "display_type": "list",
+    "selection_type": "multi",
+    "options": [
+      {
+        "id": 6,
+        "title": "Neuf avec étiquette",
+        "type": "default",
+        "description": "Article neuf, jamais porté/utilisé avec étiquettes ou dans son emballage d’origine."
+      },
+      {
+        "id": 1,
+        "title": "Neuf sans étiquette",
+        "type": "default",
+        "description": "Article neuf, jamais porté/utilisé, sans étiquettes ni emballage d’origine."
+      },
+      {
+        "id": 2,
+        "title": "Très bon état",
+        "type": "default",
+        "description": "Article très peu porté/utilisé qui peut présenter de légères imperfections, mais qui reste en très bon état."
+      },
+      {
+        "id": 3,
+        "title": "Bon état",
+        "type": "default",
+        "description": "Article porté/utilisé quelques fois, présentant des imperfections et des signes d’usure."
+      },
+      {
+        "id": 4,
+        "title": "Satisfaisant",
+        "type": "default",
+        "description": "Article porté/utilisé plusieurs fois, présentant des imperfections et des signes d’usure."
+      }
+    ],
+    "position": 3
+  }
